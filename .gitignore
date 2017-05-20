@@ -1,5 +1,4 @@
 build/
-classes/
 gradle/
 gradlew
 build.gradle
@@ -8,4 +7,3 @@ gradlew.bat
 run/
 .gradle/
 .idea/
-Forge-MattMod.iml
